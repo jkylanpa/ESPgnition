@@ -1,5 +1,5 @@
 # ESPgnition
-ESPgnition — ESP32-S3 powered USB gamepad &amp; SimHub telemetry display for your sim racing rig
+ESPgnition — ESP32-S3 powered USB gamepad SimHub telemetry display for your sim racing rig
 
 sim-ignition-hid
 A DIY USB ignition switch / button box for sim racing, built on the LILYGO T-Display-S3 (ESP32-S3). It shows up in Windows as a native USB HID gamepad with 4 buttons, and doubles as a live telemetry display (RPM, speed, gear, lap time, delta) fed by SimHub over the same USB cable — no extra drivers, no PC-side background app required.
@@ -55,6 +55,7 @@ Repo structure
 ```
 firmware/
   sim_ignition_hid.ino
+LICENCE
 README.md
 ```
 License
