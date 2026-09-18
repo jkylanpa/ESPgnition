@@ -15,7 +15,6 @@ Hardware
 LILYGO T-Display-S3 (ESP32-S3-WROOM-1, 1.9" 170x320 ST7789)
 4x momentary push buttons (12mm panel mount recommended)
 1x 5mm LED + 220–330Ω resistor
-M5 bolt + roll-in T-nut (for the 20x20 V-slot mount)
 Wiring
 Function	GPIO
 Button 1	1
